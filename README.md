@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="257" src="https://imgur.com/1iZ4riV.png"  />
+  <img height="257" src="https://imgur.com/XNjbfeD.png"  />
 </div>
 
 ###
@@ -15,6 +15,6 @@
 
 ###
 
-[![](https://visitcount.itsvg.in/api?id=LinaProjects&icon=0&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=LinaProjects&label=Views&color=11&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
 ###

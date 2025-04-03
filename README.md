@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img height="257" src="https://imgur.com/XNjbfeD.png"  />
-</div>
+</div> -->
 
 ###
 
